@@ -9,6 +9,8 @@ body {
   font-size: 14px;
   color: #444;
   width: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 p {
